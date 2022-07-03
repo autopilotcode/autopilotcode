@@ -1,4 +1,4 @@
-- Hi, from **@Andrii_Falieiev**
+- **@Andrii_Falieiev** is here **:)**
 - Interests: **_Programming_** & **_Cyber Security_**
 - Currently learning **JavaScript**
 - Hobby is to help people bypass **_internet censorship_**
