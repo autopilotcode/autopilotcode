@@ -1,7 +1,7 @@
-- Hi, from *@Andrii_Falieiev*
-- Interests: *Programming* & *Cyber Security*
-- Currently learning *JavaScript*
-- Hobby is to help people bypass _internet censorship_
+- Hi, from **@Andrii_Falieiev**
+- Interests: **_Programming_** & **_Cyber Security_**
+- Currently learning **JavaScript**
+- Hobby is to help people bypass **_internet censorship_**
 - [YouTube channel](https://www.youtube.com/channel/UCY_2FuUykbrEGUoOtsskT1A)
 
 <!---
