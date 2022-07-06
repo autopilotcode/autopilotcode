@@ -1,6 +1,5 @@
-![alt text](https://github.com/autopilotcode/My_Learning_Templates/blob/main/Andrii%20Faieiev.png?raw=true)
-
-- **@Andrii_Falieiev** is here **:)**
+ ![alt text](https://github.com/autopilotcode/My_Learning_Templates/blob/main/Andrii%20Faieiev.png)
+---
 - Interests: **_Programming_** & **_Cyber Security_**
 - Currently learning **JavaScript**
 - Hobby is to help people **_bypass internet censorship_** and keep their **_data in safety_**
