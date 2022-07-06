@@ -5,7 +5,7 @@
 - Currently learning **JavaScript**
 - Hobby is to help people **_bypass internet censorship_** and keep their **_data in safety_**
 ---
-- [YouTube channel about security tools](https://www.youtube.com/channel/UCY_2FuUykbrEGUoOtsskT1A)
+- [my YouTube channel about security tools](https://www.youtube.com/channel/UCY_2FuUykbrEGUoOtsskT1A)
 ---
 <!---
 autopilotcode/autopilotcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
