@@ -7,6 +7,10 @@
 - **Can help with:** _Virtual Machines, VPN & Proxy Servers, Asymmetric Encryption and other Useful Things_.
 ---
 - 📽️ [my YouTube channel about security tools](https://www.youtube.com/channel/UCY_2FuUykbrEGUoOtsskT1A)
+___
+- [My GPG key](https://github.com/autopilotcode/autopilotcode/blob/c79972b34bd0285f2af9c3186ed7f37e0b237a8b/autopilotcode.pub "GPG Public Key")
+
+You can **encrypt your messages** for me. Send me the **GPG public key** and I'll also encrypt yours.
 
 ---
 
