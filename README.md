@@ -4,7 +4,7 @@
 - Interests: **_Programming_** & **_Cyber Security_**
 - Currently learning **JavaScript**
 - Hobby is to help people **_bypass internet censorship_** and keep their **_data in safety_**
-- **Can help with:** _Virtual Machines, VPN & Proxy Servers, Asymmetric Encryption and other Useful Things_.
+- **Can be useful with:** _Virtual Machines, VPN & Proxy Servers, Asymmetric Encryption and other Useful Things_.
 ---
 - 📽️ [my YouTube channel about security tools](https://www.youtube.com/channel/UCY_2FuUykbrEGUoOtsskT1A)
 ___
