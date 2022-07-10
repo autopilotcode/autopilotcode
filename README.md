@@ -13,7 +13,7 @@ ___
 You can **encrypt your messages** for me. Send me the **GPG public key** and I'll also encrypt yours.
 
 ---
-
+![Epam Certificate](https://github.com/autopilotcode/autopilotcode/blob/main/Epam-certificate.png "Epam Certificate")
 
 <!---
 autopilotcode/autopilotcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
