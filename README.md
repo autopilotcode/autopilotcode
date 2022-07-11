@@ -12,7 +12,9 @@
 ___
 - 🔑 [My GPG key](https://github.com/autopilotcode/autopilotcode/blob/c79972b34bd0285f2af9c3186ed7f37e0b237a8b/autopilotcode.pub "GPG Public Key")
 
-You can **encrypt your messages** for me. Send me the **GPG public key** and I'll also encrypt yours.
+You can **encrypt your messages** for me (_and if you want to sent sensitive information, you should_). 
+
+Send me the **GPG public key** and I'll also encrypt yours.
 
 ---
 ![Epam Certificate](https://github.com/autopilotcode/autopilotcode/blob/main/Epam-certificate-s.png "Epam Certificate")
