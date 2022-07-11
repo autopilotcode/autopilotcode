@@ -10,14 +10,14 @@
 
  [YouTube]: https://www.youtube.com/channel/UCY_2FuUykbrEGUoOtsskT1A
 ___
-- [My GPG key](https://github.com/autopilotcode/autopilotcode/blob/c79972b34bd0285f2af9c3186ed7f37e0b237a8b/autopilotcode.pub "GPG Public Key")
+- 🔑 [My GPG key](https://github.com/autopilotcode/autopilotcode/blob/c79972b34bd0285f2af9c3186ed7f37e0b237a8b/autopilotcode.pub "GPG Public Key")
 
 You can **encrypt your messages** for me. Send me the **GPG public key** and I'll also encrypt yours.
 
 ---
 ![Epam Certificate](https://github.com/autopilotcode/autopilotcode/blob/main/Epam-certificate-s.png "Epam Certificate")
 
-Click [here] to check the original file of the certificate.
+Click [here] to check the original file of the 📜 certificate.
 
 [here]: https://github.com/autopilotcode/autopilotcode/blob/main/EPAM_IT_Fundamentals_for_Ukrainian_Switchers_2022.pdf
 
