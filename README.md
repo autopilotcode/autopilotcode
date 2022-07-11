@@ -9,7 +9,8 @@
 - 📽️ My [YouTube] channel with security tools. Must have for any developer.
 
  [YouTube]: https://www.youtube.com/channel/UCY_2FuUykbrEGUoOtsskT1A
-___
+ 
+---
 - 🔑 [My GPG key](https://github.com/autopilotcode/autopilotcode/blob/c79972b34bd0285f2af9c3186ed7f37e0b237a8b/autopilotcode.pub "GPG Public Key")
 
 You can **encrypt your messages** for me (_and if you want to sent sensitive information, you should_). 
