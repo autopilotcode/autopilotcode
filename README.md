@@ -1,7 +1,7 @@
  ![alt text](https://github.com/autopilotcode/My_Learning_Templates/blob/main/Andrii%20Faieiev.png)
  
 ---
-- Interests: **_Programming_** & **_Cyber Security_**.
+- Passions: **_Programming_** & **_Cyber Security_**.
 - Currently learning **JavaScript**.
 - Hobby is to help people **_bypass internet censorship_** and keep their **_data in safety_**.
 - **Can be useful with:** _Virtual Machines, VPN & Proxy Servers, Asymmetric Encryption and other Useful Things_.
