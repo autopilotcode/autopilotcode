@@ -16,6 +16,7 @@
 You can **encrypt your messages** for me (_and if you want to sent sensitive information, you should_). 
 
 Send me the **GPG public key** and I'll also encrypt yours.
+Send me the **GPG public key** and I'll also encrypt yours.
 
 ---
 ![Epam Certificate](https://github.com/autopilotcode/autopilotcode/blob/main/Epam-certificate-s.png "Epam Certificate")
