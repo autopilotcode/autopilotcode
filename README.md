@@ -3,7 +3,7 @@
 ---
 - Passions: **_Programming_** & **_Cyber Security_** 🛡️.
 - Currently learning **JavaScript**.
-- The hobby is to help people keep their **_data in safety_**.
+- The hobby, is to help people keep their **_data safety_** and **__surf securely__** throughout the internet.
 - **Can be useful with:** _Virtual Machines, VPN & Proxy Servers, Asymmetric Encryption and other Useful Things_.
 ---
 - 📽️ My [YouTube] channel with security tools. Must have for any developer.
