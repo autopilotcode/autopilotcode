@@ -2,9 +2,10 @@
  
 ---
 - Passions: **_Programming_** 🖥️ & **_Cyber Security_** 🛡️.
+- Skills: **CSS** & **HTML**.
 - Currently learning **JavaScript**.
-- The hobby, is to help people keep their **_data safety_** and **__surf securely__** throughout the internet.
-- **Can be useful with:** _Virtual Machines, VPN & Proxy Servers, Asymmetric Encryption and other Useful Things_.
+- The hobby, is to help people keep their **_data safety_** and **_surf securely_** throughout the internet.
+- **Also can be useful with:** _Virtual Machines, VPN & Proxy Servers, Asymmetric Encryption and other Useful Things_.
 ---
 - 📽️ My [YouTube] channel with security tools. Must have for any developer.
 
