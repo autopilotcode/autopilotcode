@@ -5,7 +5,7 @@
 - Skills: **CSS** & **HTML**.
 - Currently learning **JavaScript**.
 - The hobby, is to help people keep their **_data safety_** and **_surf securely_** throughout the internet.
-- **Also can be useful with:** _Virtual Machines, VPN & Proxy Servers, Asymmetric Encryption and other Useful Things_.
+- **Also can be useful with:** _Virtual Machines, VPN & Proxy Servers, Asymmetric Encryption, Encrypted Containers and other Useful Things_.
 ---
 - 📽️ My [YouTube] channel with security tools. Must have for any developer.
 
